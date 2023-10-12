@@ -1,0 +1,89 @@
+
+
+.top-container{
+    background-color: #CCC8AA;
+    height: 65vh;
+    
+}
+.span1{
+    color:#D0E7D2;
+    font-family: 'Press Start 2P',sans-serif;
+
+}
+#web-development{
+    display: flex;
+    height: 20em;
+    
+}
+.middle-container{
+    margin-top: 100px;
+}
+.Christian{
+border-radius: 25%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto
+}
+.orbitron-style{
+  font-family: 'Orbitron', sans-serif;
+}
+
+.intro{
+    
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+  
+}
+.habilidades{
+  color:#F1EFEF;
+}
+.Dosis{
+  font-family: 'Dosis',sans-serif;
+}
+.skills{
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+    text-align: center;
+    background-color: #7D7C7C;
+}
+.contact-me{
+  font-family: 'Orbitron', sans-serif;
+  display: block;
+  text-align: center;
+  margin-top: 40px;
+  background-color: white;
+  color: #191717;
+  
+}
+.getcontact-me{
+  margin-bottom: 80px;
+ 
+}
+
+.contact-message{
+  font-family: 'Dosis',sans-serif;
+}
+
+
+.yesyes{
+  color: black;
+}
+@media(max-height: 990px){
+  
+  .Christian{
+    width: 25%;
+    
+  }
+  .top-container{
+    height: 90vh;
+  }
+  .web-development{
+    height: auto;
+  }
+  
+}
+  
